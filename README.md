@@ -1,5 +1,5 @@
 # Basic-Banking-System
-First Project built for MLH Hackaton - Winter Hacklympics 
+First Project built for Web Developement Internship at The Sparks Foundation.
 
 # AIM
 Create a simple dynamic website which has the following specs.</br>
